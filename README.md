@@ -6,7 +6,7 @@ My name is Paulo Piotto, I'm a 21 years old software developer from Brazil, pass
 
 I'm currently working with **React**, **Node**, **Typescript**, **PostgreSQL**, but I'm always open to learn and work with new languages and technologies.
 
-I love the thrill of making ideas come to life with code, I feel like I've born to solve problems and I also love to teach people how to solve it.
+I love the thrill of making ideas come to life with code, I feel like I've born to solve problems and I also love to teach people how to solve them.
 
 - ⚡ Fun fact: I'm a tutor of two dogs named Nala and Luna in reference to the lion king and harry potter characters.
 
